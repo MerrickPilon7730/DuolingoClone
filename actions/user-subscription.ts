@@ -38,7 +38,7 @@ export const createStripeUrl = async () => {
                 price_data: {
                     currency: "CAD",
                     product_data: {
-                        name: "Duo Clone Pro",
+                        name: "Duolingo Clone Pro",
                         description: "Unlimited Hearts",
                     },
                     // 10 dollars

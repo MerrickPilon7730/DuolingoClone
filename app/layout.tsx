@@ -10,7 +10,7 @@ import { PracticeModal } from "@/components/modals/practice-modal";
 const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Duo Clone | Merrick Pilon",
+  title: "Duolingo Clone | Merrick Pilon",
   description: "NextJS Duolingo inspired clone",
 };
 
